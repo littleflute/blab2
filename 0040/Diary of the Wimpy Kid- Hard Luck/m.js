@@ -1,0 +1,17 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "BlAB0040CD1_track1.mp3";		
+f[2]	= "BlAB0040CD1_track10.mp3";		
+f[3]	= "BlAB0040CD1_track11.mp3";		
+f[4]	= "BlAB0040CD1_track12.mp3";		
+f[5]	= "BlAB0040CD1_track13.mp3";		
+f[6]	= "BlAB0040CD1_track14.mp3";		
+f[7]	= "BlAB0040CD1_track15.mp3";		
+f[8]	= "BlAB0040CD1_track2.mp3";		
+f[9]	= "BlAB0040CD1_track3.mp3";		
+f[10]	= "BlAB0040CD1_track4.mp3";		
+f[11]	= "BlAB0040CD1_track5.mp3";		
+f[12]	= "BlAB0040CD1_track6.mp3";		
+f[13]	= "BlAB0040CD1_track7.mp3";		
+f[14]	= "BlAB0040CD1_track8.mp3";		
+f[15]	= "BlAB0040CD1_track9.mp3";		
