@@ -1,4 +1,4 @@
-[v0.0.8](https://github.com/littleflute/blab2/edit/master/README.md)
+[v0.0.9](https://github.com/littleflute/blab2/edit/master/README.md)
 
 [blab42](blab42) [186M]
 
@@ -15,3 +15,7 @@
 [203-TheArtOfCriticalDecisionMaking](203-TheArtOfCriticalDecisionMaking)
 
 [204](204)
+
+[206](206)
+
+[207](207)
